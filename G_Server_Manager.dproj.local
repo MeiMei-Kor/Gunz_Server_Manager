@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.643,=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.485,=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.910,=E:\우현\Gunz\config_SET\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.144,E:\우현\Gunz\config_SET\Unit1.pas=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.144,E:\우현\Gunz\config_SET\Unit1.dfm=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.999,D:\MeiMei\freegunz\1.5\Gunz1.5-main\Tools\config_SET\G_Server_Manager.dproj=D:\MeiMei\freegunz\1.5\Gunz1.5-main\Tools\config_SET\Config_Changer.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.692,E:\우현\Gunz\config_SET\Config_Changer.dproj=C:\Users\koran\OneDrive\문서\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
